@@ -12,7 +12,6 @@ Java/Spring Boot application used as the workload for the platform.
 - Java / Spring Boot
 - Docker
 - REST API
-- MySQL
 - CI/CD
 
 🔗 [Employee App](https://github.com/rahulkishorparida/employee-service)
@@ -21,7 +20,6 @@ Java/Spring Boot application used as the workload for the platform.
 Infrastructure and platform components required to run the application.
 
 - AWS / EKS
-- VPC
 - Subnets & Availability Zones
 - IAM
 - Kubernetes platform components
